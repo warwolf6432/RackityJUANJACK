@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">108674270513-1stikr2cp3ofvvid3ap2uuc2sj5eruuj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">108674270513</string>
+    <string name="google_api_key" translatable="false">AIzaSyCoi3wuc2vzmKx5rTGui7OD3qW2Kqt7ZtQ</string>
+    <string name="google_app_id" translatable="false">1:108674270513:android:3230b52ce7d7ea10261c10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoi3wuc2vzmKx5rTGui7OD3qW2Kqt7ZtQ</string>
+    <string name="google_storage_bucket" translatable="false">rackity-17b5f.appspot.com</string>
+    <string name="project_id" translatable="false">rackity-17b5f</string>
+</resources>
